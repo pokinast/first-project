@@ -1,3 +1,15 @@
+.font-container_font_ibm {
+  font-family: "IBM Plex Serif", serif;
+}
+.font-container_font_ {
+  font-family: "Ubuntu", sans-serif;
+}
+.font-container_font_istok {
+  font-family: "Istok Web", sans-serif;
+}
+.font-container__text_weight_bold {
+  font-weight: bold;
+}
 .page {
   font-family: "Helvetica Neue", "Arial", sans-serif;
   min-width: 1100px;
